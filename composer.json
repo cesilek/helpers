@@ -1,0 +1,15 @@
+{
+	"name": "krystof/helpers",
+	"type": "library",
+	"homepage": "http://cesal.net",
+	"license": ["BSD-3-Clause"],
+	"authors": [
+		{
+			"name": "Kryštof Česal",
+			"homepage": "http://cesal.net"
+		}
+	],
+	"require": {
+	},
+	"minimum-stability": "dev",
+}
