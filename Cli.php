@@ -1,6 +1,6 @@
 <?php
 
-namespace BeagleWatch\Utils;
+namespace Krystof\Utils;
 
 
 /**
