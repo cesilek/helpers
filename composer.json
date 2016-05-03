@@ -11,5 +11,10 @@
 	],
 	"require": {
 	},
+	"autoload": {
+		"files" : [
+			"functions.php"
+		]
+	},
 	"minimum-stability": "dev"
 }
