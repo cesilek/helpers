@@ -13,7 +13,8 @@
 	},
 	"autoload": {
 		"files" : [
-			"functions.php"
+			"functions.php",
+			"Cli.php"
 		]
 	},
 	"minimum-stability": "dev"
